@@ -6,8 +6,8 @@
   "editor": {
     "card": {
       "climate": {
-        "disable_window": "Wyłącz okno",
-        "disable_summer": "Wyłacz lato",
+        "disable_window": "Wyłącz tryb otwartego okna",
+        "disable_summer": "Wyłącz tryb letni",
         "disable_eco": "Wyłącz tryb eko",
         "disable_heat": "Wyłącz grzanie",
         "disable_off": "Wyłącz wyłącznik",
